@@ -1,7 +1,7 @@
 ## Quickstart
 
 
-Change Branh to see the typescript verion
+Change Branch to see the typescript verion
 
 
 Contract Deployed to in Goerli:
