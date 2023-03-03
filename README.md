@@ -2,7 +2,7 @@
 
 Contract Deployed to in Goerli:
 ```
-
+0xe9dfa2241e7622bb50caDB64DB2d5a048531248A
 ```
 
 ```
