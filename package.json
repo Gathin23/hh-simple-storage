@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "https://github.com/Gathin23/hh-simple-storage.git",
   "author": "Gathin <gathint23@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
