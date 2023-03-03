@@ -1,0 +1,8 @@
+{
+  "name": "hh-simple-storage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Gathin23/hh-simple-storage.git",
+  "author": "Gathin <gathint23@gmail.com>",
+  "license": "MIT"
+}
